@@ -31,3 +31,4 @@ D:\Code\Project-Sem-3\ProjectSem3Backend\obj\Debug\net8.0\refint\ProjectSem3Back
 D:\Code\Project-Sem-3\ProjectSem3Backend\obj\Debug\net8.0\ProjectSem3Backend.pdb
 D:\Code\Project-Sem-3\ProjectSem3Backend\obj\Debug\net8.0\ProjectSem3Backend.genruntimeconfig.cache
 D:\Code\Project-Sem-3\ProjectSem3Backend\obj\Debug\net8.0\ref\ProjectSem3Backend.dll
+D:\Code\Project-Sem-3\ProjectSem3Backend\obj\Debug\net8.0\ProjectSem3Backend.sourcelink.json
